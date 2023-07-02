@@ -1,15 +1,15 @@
 {
   "main": {
-    "name": "Buchi Godwin",
-    "occupation": "CEO of BuchTech",
+    "name": "Godwin",
+    "occupation": "CEO of Erotechs",
     "description": "I eat, sleep and breathe React",
-    "image": "IMG_20181226_082233_410.jpg",
+    "image": "Myimage.jpg",
     "bio": "A Junior Front-end Developer. quick thinking and self-motivated. I am an avid learner and a curious being, I never get tired of exploring new trends and ideas",
     "contactmessage": "Get in touch with me and get to experience me",
-    "email": "ukaigweonyebuchi@gmail.com",
-    "phone": "+234 8107572949",
+    "email": "eroyoung@gmail.com",
+    "phone": "+234 8029607315",
     "address": {
-      "street": "No. 18 Makele str.",
+      "street": "No. 12 Jesus Avenue Rumuigbo.",
       "city": "Port-Harcourt",
       "state": "Rivers",
       "zip": "500272"
@@ -17,22 +17,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://web.facebook.com/onyebuchi.ukaigwe/",
+        "url": "https://web.facebook.com/godwin.oguechuba",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/buch-gwin-a29562176/",
+        "url": "https://www.linkedin.com/in/godwin-oguechuba-06b592124/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/itz_buchi/",
+        "url": "https://www.instagram.com/oguechuba_godwin/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/buchi-1996",
+        "url": "https://github.com/Coddy22",
         "className": "fa fa-github"
       }
     ]
@@ -41,15 +41,15 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Port-Harcourt - NG",
-        "degree": "Bachelor's Degree, Education & Computer Science",
+        "school": "Kwame Nkrumah University Of Science And Technology",
+        "degree": "Bachelor's Degree, in Computer Science",
         "graduated": "July 2018",
         "description": "Graduated with Second Class Honours"
       }
     ],
     "work": [
       {
-        "company": "BuchTech",
+        "company": "Erotechs",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
         "description": "implementing visual and interactive elements that users engage with through their web browser when using a web application."
@@ -61,7 +61,7 @@
         "level": "55%"
       },
       {
-        "name": "Python",
+        "name": "Laravel",
         "level": "30%"
       },
       {
@@ -73,8 +73,24 @@
         "level": "60%"
       },
       {
-        "name": "Web Development",
+        "name": "NodeJS",
+        "level": "65%"
+      },
+      {
+        "name": "MongoDB",
         "level": "60%"
+      },
+      {
+        "name": "XML",
+        "level": "60%"
+      },
+      {
+        "name": "PHP",
+        "level": "77%"
+      },
+      {
+        "name": "Web Development",
+        "level": "91%"
       }
     ]
   },
@@ -109,8 +125,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Buchi is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Kim jessy"
+        "text": "Godwin is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Kim sharon"
       }
     ]
   }

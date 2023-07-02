@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             <li>
               Made by{" "}
               <a title="PAPA" href="https://github.com/buchi-1996">
-                Buchi
+                Godwin
               </a>
             </li>
           </ul>
